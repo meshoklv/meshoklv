@@ -1,0 +1,7 @@
+variants/
+*.png
+*.jpg
+bio.txt
+header-*.svg
+terminal-*.svg
+variant-*.md
