@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="980" height="680" viewBox="0 0 980 680" role="img" aria-labelledby="t d">
 <title id="t">meshoklv: tmux</title>
-<desc id="d">tmux session meshoklv. Now building: logistics CRM (Next.js web + SwiftUI iOS), agent portal, voice agent, agent benchmark, agent safety layer, Telegram bots. Side projects: VPN research, local models and image generation on a GPU, VibeNokia, KINO.js, health monitor (Mi Band 10 to Telegram), browser games, Blender and 3D printing. Open source: Madeira, merged PRs #148 #149 #150, wine #18 #19; Dark Souls Remastered playable on iPhone Air. Stack: TypeScript, Next.js, Swift, SwiftUI, Kotlin, Go, C, Python, Shell, tmux, Docker, PM2, nginx, PostgreSQL. Contact: t.me/meshoklv, instagram.com/meshoklv, github.com/meshoklv.</desc>
+<desc id="d">tmux session meshoklv. Featured projects: chamele0nx, pocket-agent, handgrab, kino-motion, gigaam-dictation. Open source: Madeira merged PRs #148 #149 #150, wine #18 #19; Dark Souls Remastered playable on iPhone Air. Coming next: ash, vibenokia, dsr-kit. Stack: TypeScript, Swift, Kotlin, Go, C, Python, Shell. Contact: t.me/meshoklv, instagram.com/meshoklv, github.com/meshoklv.</desc>
 <style>
 text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace;white-space:pre;fill:#1f2328}
 .p{font-size:14.5px} .a{font-size:11px} .r{font-size:12px}
@@ -63,26 +63,23 @@ text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sa
 <text x="32.0" y="587.0" class="a row" style="animation-delay:0.93s" textLength="316.8" lengthAdjust="spacing"><tspan class="bg">.......                                        .</tspan></text>
 <line class="ln" style="animation-delay:.3s" x1="666.0" y1="74.0" x2="666.0" y2="546.0" stroke="#d0d7de" stroke-width="1.2"/>
 <line class="ln" style="animation-delay:0.35s" x1="396.0" y1="74.0" x2="662.4" y2="74.0" stroke="#1a7f37" stroke-width="1.2"/>
-<rect class="ln" style="animation-delay:0.35s" x="406.8" y="66.0" width="129.6" height="16" fill="#ffffff"/>
-<text x="410.4" y="78.0" class="r ln" style="animation-delay:0.35s" textLength="115.2" lengthAdjust="spacing"><tspan class="B cg">now building</tspan> <tspan class="d">[6]</tspan></text>
+<rect class="ln" style="animation-delay:0.35s" x="406.8" y="66.0" width="165.6" height="16" fill="#ffffff"/>
+<text x="410.4" y="78.0" class="r ln" style="animation-delay:0.35s" textLength="151.2" lengthAdjust="spacing"><tspan class="B cg">featured projects</tspan> <tspan class="d">[5]</tspan></text>
 <circle class="pulse" cx="402.5" cy="98.0" r="3.3" fill="#1a7f37" style="animation-delay:0.0s"/>
-<text x="414.0" y="102.0" class="r ln B" style="animation-delay:0.45s" textLength="93.6" lengthAdjust="spacing">logistics CRM</text>
-<text x="414.0" y="120.5" class="r ln d" style="animation-delay:0.45s" textLength="237.6" lengthAdjust="spacing">Next.js web CRM + SwiftUI iOS app</text>
+<text x="414.0" y="102.0" class="r ln B" style="animation-delay:0.45s" textLength="72.0" lengthAdjust="spacing">chamele0nx</text>
+<text x="414.0" y="120.5" class="r ln d" style="animation-delay:0.45s" textLength="208.8" lengthAdjust="spacing">VPN that looks like a website</text>
 <circle class="pulse" cx="402.5" cy="140.6" r="3.3" fill="#1a7f37" style="animation-delay:0.3s"/>
-<text x="414.0" y="144.6" class="r ln B" style="animation-delay:0.52s" textLength="86.4" lengthAdjust="spacing">agent portal</text>
-<text x="414.0" y="163.1" class="r ln d" style="animation-delay:0.52s" textLength="216.0" lengthAdjust="spacing">run coding agents from a phone</text>
+<text x="414.0" y="144.6" class="r ln B" style="animation-delay:0.52s" textLength="86.4" lengthAdjust="spacing">pocket-agent</text>
+<text x="414.0" y="163.1" class="r ln d" style="animation-delay:0.52s" textLength="216.0" lengthAdjust="spacing">on-device coding agent, iPhone</text>
 <circle class="pulse" cx="402.5" cy="183.1" r="3.3" fill="#1a7f37" style="animation-delay:0.6s"/>
-<text x="414.0" y="187.1" class="r ln B" style="animation-delay:0.59s" textLength="79.2" lengthAdjust="spacing">voice agent</text>
-<text x="414.0" y="205.6" class="r ln d" style="animation-delay:0.59s" textLength="237.6" lengthAdjust="spacing">outbound calls: STT -&gt; LLM -&gt; TTS</text>
+<text x="414.0" y="187.1" class="r ln B" style="animation-delay:0.59s" textLength="57.6" lengthAdjust="spacing">handgrab</text>
+<text x="414.0" y="205.6" class="r ln d" style="animation-delay:0.59s" textLength="223.2" lengthAdjust="spacing">virtual hands, TrueDepth camera</text>
 <circle class="pulse" cx="402.5" cy="225.7" r="3.3" fill="#1a7f37" style="animation-delay:0.9s"/>
-<text x="414.0" y="229.7" class="r ln B" style="animation-delay:0.66s" textLength="108.0" lengthAdjust="spacing">agent benchmark</text>
-<text x="414.0" y="248.2" class="r ln d" style="animation-delay:0.66s" textLength="230.4" lengthAdjust="spacing">do agents damage prod-like data?</text>
+<text x="414.0" y="229.7" class="r ln B" style="animation-delay:0.66s" textLength="79.2" lengthAdjust="spacing">kino-motion</text>
+<text x="414.0" y="248.2" class="r ln d" style="animation-delay:0.66s" textLength="187.2" lengthAdjust="spacing">one-file web motion engine</text>
 <circle class="pulse" cx="402.5" cy="268.2" r="3.3" fill="#1a7f37" style="animation-delay:1.2s"/>
-<text x="414.0" y="272.2" class="r ln B" style="animation-delay:0.73s" textLength="129.6" lengthAdjust="spacing">agent safety layer</text>
-<text x="414.0" y="290.7" class="r ln d" style="animation-delay:0.73s" textLength="172.8" lengthAdjust="spacing">vets risky agent actions</text>
-<circle class="pulse" cx="402.5" cy="310.8" r="3.3" fill="#1a7f37" style="animation-delay:1.5s"/>
-<text x="414.0" y="314.8" class="r ln B" style="animation-delay:0.80s" textLength="93.6" lengthAdjust="spacing">telegram bots</text>
-<text x="414.0" y="333.3" class="r ln d" style="animation-delay:0.80s" textLength="180.0" lengthAdjust="spacing">notifications, task flows</text>
+<text x="414.0" y="272.2" class="r ln B" style="animation-delay:0.73s" textLength="115.2" lengthAdjust="spacing">gigaam-dictation</text>
+<text x="414.0" y="290.7" class="r ln d" style="animation-delay:0.73s" textLength="216.0" lengthAdjust="spacing">offline voice typing for macOS</text>
 <line class="ln" style="animation-delay:0.45s" x1="669.6" y1="74.0" x2="950.4" y2="74.0" stroke="#d0d7de" stroke-width="1.2"/>
 <rect class="ln" style="animation-delay:0.45s" x="680.4" y="66.0" width="93.6" height="16" fill="#ffffff"/>
 <text x="684.0" y="78.0" class="r ln" style="animation-delay:0.45s" textLength="79.2" lengthAdjust="spacing"><tspan class="B d">open source</tspan></text>
@@ -91,7 +88,7 @@ text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sa
 <text x="676.8" y="139.0" class="r ln" style="animation-delay:0.55s" textLength="151.2" lengthAdjust="spacing"><tspan class="d">FEX-Emu + Wine + DXMT</tspan></text>
 <text x="676.8" y="164.9" class="r ln" style="animation-delay:0.65s" textLength="259.2" lengthAdjust="spacing"><tspan class="cg B">✓ </tspan><tspan class="cg">#148    </tspan>crash-guard fault counting</text>
 <text x="676.8" y="183.4" class="r ln" style="animation-delay:0.72s" textLength="244.8" lengthAdjust="spacing"><tspan class="cg B">✓ </tspan><tspan class="cg">#149    </tspan>XInput foreground window</text>
-<text x="676.8" y="201.9" class="r ln" style="animation-delay:0.79s" textLength="252.0" lengthAdjust="spacing"><tspan class="cg B">✓ </tspan><tspan class="cg">#150    </tspan>missed taps ≠ mouse input</text>
+<text x="676.8" y="201.9" class="r ln" style="animation-delay:0.79s" textLength="259.2" lengthAdjust="spacing"><tspan class="cg B">✓ </tspan><tspan class="cg">#150    </tspan>missed taps != mouse input</text>
 <text x="676.8" y="220.4" class="r ln" style="animation-delay:0.86s" textLength="266.4" lengthAdjust="spacing"><tspan class="cg B">✓ </tspan><tspan class="cg">wine#18 </tspan>ARM64EC syscall return path</text>
 <text x="676.8" y="238.9" class="r ln" style="animation-delay:0.93s" textLength="230.4" lengthAdjust="spacing"><tspan class="cg B">✓ </tspan><tspan class="cg">wine#19 </tspan>builtin XInput loading</text>
 <text x="676.8" y="264.8" class="r ln" style="animation-delay:1.00s" textLength="201.6" lengthAdjust="spacing"><tspan class="co B">★ </tspan>Dark Souls Remastered (PC)</text>
@@ -99,22 +96,18 @@ text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sa
 <text x="676.8" y="301.8" class="r ln" style="animation-delay:1.00s" textLength="158.4" lengthAdjust="spacing">  no game file changes</text>
 <text x="676.8" y="320.3" class="r ln" style="animation-delay:1.00s" textLength="259.2" lengthAdjust="spacing"><tspan class="d">  listed in Madeira&#x27;s in-app credits</tspan></text>
 <line class="ln" style="animation-delay:0.75s" x1="396.0" y1="370.0" x2="662.4" y2="370.0" stroke="#d0d7de" stroke-width="1.2"/>
-<rect class="ln" style="animation-delay:0.75s" x="406.8" y="362.0" width="136.8" height="16" fill="#ffffff"/>
-<text x="410.4" y="374.0" class="r ln" style="animation-delay:0.75s" textLength="122.4" lengthAdjust="spacing"><tspan class="B d">side projects</tspan> <tspan class="d">[7]</tspan></text>
-<text x="403.2" y="398.0" class="r ln" style="animation-delay:0.85s" textLength="252.0" lengthAdjust="spacing"><tspan class="B">vpn research   </tspan><tspan class="d">transports + clients</tspan></text>
-<text x="403.2" y="417.4" class="r ln" style="animation-delay:0.90s" textLength="252.0" lengthAdjust="spacing"><tspan class="B">local models   </tspan><tspan class="d">LLMs, image gen, GPU</tspan></text>
-<text x="403.2" y="436.9" class="r ln" style="animation-delay:0.95s" textLength="244.8" lengthAdjust="spacing"><tspan class="B">VibeNokia      </tspan><tspan class="d">vibe-coding on 3310</tspan></text>
-<text x="403.2" y="456.3" class="r ln" style="animation-delay:1.00s" textLength="201.6" lengthAdjust="spacing"><tspan class="B">KINO.js        </tspan><tspan class="d">motion engine</tspan></text>
-<text x="403.2" y="475.7" class="r ln" style="animation-delay:1.05s" textLength="252.0" lengthAdjust="spacing"><tspan class="B">health monitor </tspan><tspan class="d">Mi Band 10, daily AI</tspan></text>
-<text x="403.2" y="495.1" class="r ln" style="animation-delay:1.10s" textLength="244.8" lengthAdjust="spacing"><tspan class="B">games          </tspan><tspan class="d">browser, TypeScript</tspan></text>
-<text x="403.2" y="514.6" class="r ln" style="animation-delay:1.15s" textLength="252.0" lengthAdjust="spacing"><tspan class="B">3D             </tspan><tspan class="d">Blender, 3D printing</tspan></text>
+<rect class="ln" style="animation-delay:0.75s" x="406.8" y="362.0" width="122.4" height="16" fill="#ffffff"/>
+<text x="410.4" y="374.0" class="r ln" style="animation-delay:0.75s" textLength="108.0" lengthAdjust="spacing"><tspan class="B d">coming next</tspan> <tspan class="d">[3]</tspan></text>
+<text x="403.2" y="398.0" class="r ln" style="animation-delay:0.85s" textLength="252.0" lengthAdjust="spacing"><tspan class="B">ash        </tspan><tspan class="d">Dark Souls on a real PSP</tspan></text>
+<text x="403.2" y="417.4" class="r ln" style="animation-delay:0.90s" textLength="237.6" lengthAdjust="spacing"><tspan class="B">vibenokia  </tspan><tspan class="d">Claude on a Nokia 3310</tspan></text>
+<text x="403.2" y="436.9" class="r ln" style="animation-delay:0.95s" textLength="216.0" lengthAdjust="spacing"><tspan class="B">dsr-kit    </tspan><tspan class="d">DS1 &amp; DS3 on iPhone</tspan></text>
 <line class="ln" style="animation-delay:0.85s" x1="669.6" y1="370.0" x2="950.4" y2="370.0" stroke="#d0d7de" stroke-width="1.2"/>
 <rect class="ln" style="animation-delay:0.85s" x="680.4" y="362.0" width="50.4" height="16" fill="#ffffff"/>
 <text x="684.0" y="374.0" class="r ln" style="animation-delay:0.85s" textLength="36.0" lengthAdjust="spacing"><tspan class="B d">stack</tspan></text>
 <text x="676.8" y="398.0" class="r ln B" style="animation-delay:0.95s" textLength="21.6" lengthAdjust="spacing">web</text>
 <rect class="blk" style="animation-delay:1.05s" x="738.0" y="389.0" width="8.5" height="9" rx="1.5" fill="#0969da"/>
 <rect class="blk" style="animation-delay:1.13s" x="748.5" y="389.0" width="8.5" height="9" rx="1.5" fill="#0969da"/>
-<text x="774.0" y="398.0" class="r ln d" style="animation-delay:0.95s" textLength="129.6" lengthAdjust="spacing">typescript next.js</text>
+<text x="774.0" y="398.0" class="r ln d" style="animation-delay:0.95s" textLength="108.0" lengthAdjust="spacing">typescript node</text>
 <text x="676.8" y="420.2" class="r ln B" style="animation-delay:1.02s" textLength="43.2" lengthAdjust="spacing">mobile</text>
 <rect class="blk" style="animation-delay:1.12s" x="738.0" y="411.2" width="8.5" height="9" rx="1.5" fill="#8250df"/>
 <rect class="blk" style="animation-delay:1.20s" x="748.5" y="411.2" width="8.5" height="9" rx="1.5" fill="#8250df"/>
@@ -132,19 +125,19 @@ text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sa
 <text x="676.8" y="486.8" class="r ln B" style="animation-delay:1.23s" textLength="36.0" lengthAdjust="spacing">infra</text>
 <rect class="blk" style="animation-delay:1.33s" x="738.0" y="477.8" width="8.5" height="9" rx="1.5" fill="#9a6700"/>
 <rect class="blk" style="animation-delay:1.41s" x="748.5" y="477.8" width="8.5" height="9" rx="1.5" fill="#9a6700"/>
-<rect class="blk" style="animation-delay:1.49s" x="759.0" y="477.8" width="8.5" height="9" rx="1.5" fill="#9a6700"/>
-<text x="774.0" y="486.8" class="r ln d" style="animation-delay:1.23s" textLength="115.2" lengthAdjust="spacing">docker pm2 nginx</text>
-<text x="676.8" y="509.0" class="r ln B" style="animation-delay:1.30s" textLength="28.8" lengthAdjust="spacing">data</text>
+<text x="774.0" y="486.8" class="r ln d" style="animation-delay:1.23s" textLength="86.4" lengthAdjust="spacing">docker nginx</text>
+<text x="676.8" y="509.0" class="r ln B" style="animation-delay:1.30s" textLength="14.4" lengthAdjust="spacing">ml</text>
 <rect class="blk" style="animation-delay:1.40s" x="738.0" y="500.0" width="8.5" height="9" rx="1.5" fill="#1b7c83"/>
-<text x="774.0" y="509.0" class="r ln d" style="animation-delay:1.30s" textLength="72.0" lengthAdjust="spacing">postgresql</text>
+<rect class="blk" style="animation-delay:1.48s" x="748.5" y="500.0" width="8.5" height="9" rx="1.5" fill="#1b7c83"/>
+<text x="774.0" y="509.0" class="r ln d" style="animation-delay:1.30s" textLength="93.6" lengthAdjust="spacing">on-device stt</text>
 <line class="ln" style="animation-delay:1.10s" x1="396.0" y1="556.0" x2="950.4" y2="556.0" stroke="#d0d7de" stroke-width="1.2"/>
 <rect class="ln" style="animation-delay:1.10s" x="406.8" y="548.0" width="64.8" height="16" fill="#ffffff"/>
 <text x="410.4" y="560.0" class="r ln" style="animation-delay:1.10s" textLength="50.4" lengthAdjust="spacing"><tspan class="B d">contact</tspan></text>
 <text x="403.2" y="584.0" class="r ln" style="animation-delay:1.15s" textLength="237.6" lengthAdjust="spacing"><tspan class="k">telegram </tspan> <tspan class="cc">t.me/meshoklv</tspan> <tspan class="d">(channel)</tspan></text>
 <text x="669.6" y="584.0" class="r ln" style="animation-delay:1.21s" textLength="230.4" lengthAdjust="spacing"><tspan class="k">instagram</tspan> <tspan class="cc">instagram.com/meshoklv</tspan></text>
 <text x="403.2" y="605.3" class="r ln" style="animation-delay:1.27s" textLength="208.8" lengthAdjust="spacing"><tspan class="k">github   </tspan> <tspan class="cc">github.com/meshoklv</tspan></text>
-<text x="669.6" y="605.3" class="r ln d" style="animation-delay:1.30s" textLength="280.8" lengthAdjust="spacing">most of the work lives in private repos</text>
+<text x="669.6" y="605.3" class="r ln d" style="animation-delay:1.30s" textLength="295.2" lengthAdjust="spacing">AI agents / iOS / networks / odd hardware</text>
 <rect class="ln" style="animation-delay:.25s" x="396" y="636.0" width="560" height="20" fill="#1a7f37"/>
-<text x="400.0" y="650.0" class="r ln" style="animation-delay:0.25s" textLength="367.2" lengthAdjust="spacing"><tspan class="stB">[meshoklv]</tspan> <tspan class="st">0:crm</tspan> <tspan class="stB">1:agents*</tspan> <tspan class="st">2:bench</tspan> <tspan class="st">3:bots</tspan> <tspan class="st">4:madeira</tspan></text>
-<text x="844.0" y="650.0" class="r ln" style="animation-delay:0.25s" textLength="108.0" lengthAdjust="spacing"><tspan class="st">14</tspan><tspan class="st pulse">:</tspan><tspan class="st">52 18-Oct-26</tspan></text>
+<text x="400.0" y="650.0" class="r ln" style="animation-delay:0.25s" textLength="252.0" lengthAdjust="spacing"><tspan class="stB">[meshoklv]</tspan> <tspan class="stB">0:featured*</tspan> <tspan class="st">1:oss</tspan> <tspan class="st">2:next</tspan></text>
+<text x="844.0" y="650.0" class="r ln" style="animation-delay:0.25s" textLength="108.0" lengthAdjust="spacing"><tspan class="st">07</tspan><tspan class="st pulse">:</tspan><tspan class="st">58 22-Oct-26</tspan></text>
 </svg>
