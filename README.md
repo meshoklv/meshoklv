@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="card-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="card-light.svg">
-  <img alt="tmux session meshoklv: featured projects chamele0nx, pocket-agent, handgrab, kino-motion, gigaam-dictation; open source in Madeira and wine; coming next ash, vibenokia, dsr-kit." src="card-light.svg" width="100%">
+  <img alt="tmux session meshoklv: featured projects chamele0nx, pocket-agent, handgrab, gigaam-dictation; open source in Madeira and wine; coming next ash, vibenokia, dsr-kit." src="card-light.svg" width="100%">
 </picture>
 
 Developer building AI agents, iOS apps and network tools - and getting games to run on hardware that was never meant for them.
@@ -13,7 +13,6 @@ Developer building AI agents, iOS apps and network tools - and getting games to 
 | **[chamele0nx](https://github.com/meshoklv/chamele0nx)** | A VPN transport that does not look like a VPN: its traffic is shaped to look like someone using a website. |
 | **[pocket-agent](https://github.com/meshoklv/pocket-agent)** | A coding agent for iPhone. The language model runs fully on the device, so your files and tasks never leave the phone. |
 | **[handgrab](https://github.com/meshoklv/handgrab)** | Virtual hands from the TrueDepth camera: pinch, carry and throw objects in 3D at 120 Hz. |
-| **[kino-motion](https://github.com/meshoklv/kino-motion)** | KINO.js - cinematic web motion in one file, zero dependencies, described in plain HTML attributes. |
 | **[gigaam-dictation](https://github.com/meshoklv/gigaam-dictation)** | Offline voice typing for macOS: press a key, speak, the text appears at the cursor. |
 
 ## Open-source contributions
